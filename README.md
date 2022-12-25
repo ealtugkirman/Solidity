@@ -1,2 +1,2 @@
-# Solidity
-This GitHub repository will be a resource for learning Solidity in Turkish. 
+## Solidity in Turkish
+This GitHub repository will be a resource for learning Solidity in Turkish. It will cover the fundamental concepts of the Solidity language and progress to more advanced features, making it useful for users of all levels. This repository will also include examples and solutions for developing Smart Contracts on the Ethereum blockchain using Solidity. It will be useful for users who are new to the Solidity language and those who are interested in this language but have not encountered it before.
