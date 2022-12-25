@@ -14,4 +14,6 @@ contract ExampleContract {
     balance = _balance;
   }
 }
+
+
 Bu örnekte, "balance" state variable'ı, "setBalance" fonksiyonu tarafından değiştirilebilir ve dışarıdan da okunabilir hale getirilmiştir. Bu state variable, bir Smart Contract'ın depolama alanında saklanır ve bu nedenle, Smart Contract'ın çalışması bittiğinde de hala mevcut olur.
