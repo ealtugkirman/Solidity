@@ -4,7 +4,7 @@ State variables, Solidity dilinde "public" veya "private" olarak tanımlanabilir
 
 Örneğin, aşağıdaki örnekte, "balance" adında bir "public" state variable tanımlanmıştır:
 
-Copy code
+
 pragma solidity ^0.6.0;
 
 contract ExampleContract {
