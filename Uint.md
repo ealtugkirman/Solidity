@@ -1,4 +1,4 @@
-olidity dilinde, "uint" (unsigned integer) veri tipi, pozitif tamsayı verileri (0 ve pozitif tamsayılar) tutar. "Uint" veri tipi, "int" (signed integer) veri tipine göre daha geniş bir veri tipidir ve "int" veri tipine göre daha fazla sayıyı tutabilir. Ancak, "uint" veri tipi sadece pozitif sayıları tutar ve negatif sayıları tutamaz.
+Solidity dilinde, "uint" (unsigned integer) veri tipi, pozitif tamsayı verileri (0 ve pozitif tamsayılar) tutar. "Uint" veri tipi, "int" (signed integer) veri tipine göre daha geniş bir veri tipidir ve "int" veri tipine göre daha fazla sayıyı tutabilir. Ancak, "uint" veri tipi sadece pozitif sayıları tutar ve negatif sayıları tutamaz.
 
 "Uint" veri tipi, Solidity dilinde önceden tanımlanmış bir veri tipidir ve dilin standart kütüphanesinde mevcuttur. "Uint" veri tipi, özellikle de tamsayı verilerin tutulduğu durumlarda kullanılır ve bu veri tipi özellikle de Ethereum blockchain üzerinde uygulama geliştirme için optimize edilmiştir.
 
