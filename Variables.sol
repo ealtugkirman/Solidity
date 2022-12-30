@@ -7,19 +7,13 @@ Değişkenler, Solidity dilinde bir fonksiyon veya bir Smart Contract içinde ta
 
 
 pragma solidity ^0.6.0;
-
-
-
 contract ExampleContract {
 
   uint balance;
   
-
   function setBalance(uint _balance) public {
-  
     balance = _balance;
   }
-  
 }
 
 
